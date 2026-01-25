@@ -1,1 +1,1 @@
-# curso-django: Projeto Recipe
+# Em construção
